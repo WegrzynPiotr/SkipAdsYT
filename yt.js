@@ -16,7 +16,6 @@ isLoaded.then(owner=>{
   btn.textContent = "Skip Ads"
   btn.style.border = "none"
   btn.style.fontSize = "1.5rem"
-  btn.style.fontSize = "arial"
   btn.style.padding = "0 16px"
   
 btn.style.setProperty("background-color","var(--yt-live-chat-enabled-send-button-color)")
